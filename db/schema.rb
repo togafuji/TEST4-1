@@ -16,9 +16,9 @@ ActiveRecord::Schema[7.0].define(version: 2022_09_20_132533) do
     t.datetime "start_at"
     t.datetime "finish"
     t.boolean "alltime"
+    t.text "onememo"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.text "onememo"
   end
 
 end
