@@ -1,0 +1,82 @@
+header {
+  width: 100%;
+  padding: 15px;
+  border-bottom: 7px solid;
+  background-color: maroon;
+  color: white;
+}
+ 
+footer{
+  width: 100%;
+  padding: 15px;
+  margin-top: 30px;
+  border-top: 7px solid;
+  background-color: maroon;
+  color: white;
+  bottom: 0px;
+  margin-bottom: 0px;
+}
+
+body{
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+ 
+.partial {
+  border: 1px solid;
+  padding: 15px;
+}
+ 
+ table{
+   margin-left: 8px;
+   border-collapse: collapse;
+   border: solid 1px #333;
+ }
+ 
+ table th {
+   background-color: pink;
+   padding: 10px 20px;
+   border-right: solid 1px #555;
+}
+ 
+ table td {
+   background-color: #FFEEFF;
+   padding: 10px 20px;
+   border-right: solid 1px #555;
+   text-align: center;
+}
+
+ table tr{
+   border-bottom: solid 1px #555;
+ }
+ 
+.notice {
+   background-color: #99FFCC;
+   border: 2px solid #33FF00;
+   padding: 5px;
+   margin-left: 8px;
+   width: 400pX;
+   text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.linkindex {
+  margin-left: 8px;
+}
+
+.bodytitle {
+  margin-left: 8px;
+}
+
+button {
+  background: none;
+	border: none;
+	color: -webkit-link;
+  cursor: pointer;
+  text-decoration: underline;
+  font-size: 15.5px;
+}
